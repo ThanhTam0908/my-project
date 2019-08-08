@@ -6,6 +6,7 @@ struct tk_can_chuyen
 };
 int main ()
 {
+	int k;
 	char tk_khac[50],c;
 	char f[50];
 	int n,tien_chuyen,so_du=20000;
